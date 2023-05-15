@@ -1,0 +1,37 @@
+.contact{
+    display: flex;
+    padding-left: 30px;
+}
+
+.phoneImg{
+    background: linear-gradient(114.93deg, #618967 5.11%, #72A479 94%);
+    border-radius: 10px;
+    padding: 12px 12px;
+}
+
+.contactText{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+}
+
+.text{
+    margin: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #CFCFCF;
+    padding-bottom: 3px;
+}
+
+.number{
+    margin: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #CFCFCF;
+}

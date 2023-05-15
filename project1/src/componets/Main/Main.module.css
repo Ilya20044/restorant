@@ -1,0 +1,39 @@
+.main{
+    width: 100%;
+    height: 484px;
+    background-image: url(../assets/images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text{
+    font-family: 'Zing Rust Demo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 67px;
+    line-height: 109.2%;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-8.37deg);
+    position: absolute;
+    left: 6.44%;
+    right: 50.99%;
+    top: 6.95%;
+    bottom: 59.15%;
+}
+
+.text1{
+    font-family: 'Zing Rust Demo';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 109.2%;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-8.37deg);
+    padding: 10px 15px;
+    background: linear-gradient(114.93deg, #618967 5.11%, #72A479 94%);;
+    position: absolute;
+    left: 20%;
+    top:50%;
+}
